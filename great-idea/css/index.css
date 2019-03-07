@@ -140,10 +140,12 @@ header nav {
 
 .top {
 	width: 435px;
+	flex-wrap: wrap;
 }
 
 .bottom {
 	width: 288px;
+	flex-wrap: wrap;
 }
 
 hr {
@@ -152,4 +154,5 @@ hr {
 	flex-wrap: wrap;
 	align-self: stretch;
 	justify-self: flex-end;
+	width: 1024px;
 }
